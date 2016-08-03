@@ -1,0 +1,14 @@
+layout_spectrum: 0.3178383675403893
+typography_spectrum: 0.5345056613441557
+color:
+  brandStrength: 0.12463435740210116
+  lightness: 0.2942684660665691
+  saturation: 0.6457154264207929
+  rhythmicContrast: 0.163317680824548
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: boardgamebrothers
